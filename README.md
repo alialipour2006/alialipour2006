@@ -1,4 +1,3 @@
-[(https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif)]
 <h1 align="center">Hi 👋, I'm Ali Alipour</h1>
 <h3 align="center">frontend developer from Iran</h3>
 <img aline='right' alt='coding' width='400px' src='https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif'/>
